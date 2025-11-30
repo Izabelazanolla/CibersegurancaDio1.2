@@ -1,0 +1,3 @@
+Anotações gerais:
+- Este é apenas um texto comum.
+- Usado para demonstração de scripts simples.
